@@ -6,7 +6,7 @@
 Name = "BeamMP Server"
 Port = 30814
 # AuthKey has to be filled out in order to run the server
-AuthKey = "REPLACE_ME"
+AuthKey = "noha972"
 # Whether to log chat messages in the console / log
 LogChat = true
 # Add custom identifying tags to your server to make it easier to find. Format should be TagA,TagB,TagC. Note the comma seperation.
